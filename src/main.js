@@ -1,5 +1,8 @@
 import { createApp } from 'vue'
-import App from './App.vue'
-import router from './router'
+import Top from './Top.vue'
+import Bottom from './Bottom.vue'
 
-createApp(App).use(router).mount('#app')
+
+
+createApp(Top).mount('#app-top')
+createApp(Bottom).mount('#app-bottom')
