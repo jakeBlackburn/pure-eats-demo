@@ -36,7 +36,7 @@
 
 <style>
 body {
-  background-color: rgb(170,40,40);
+  background-color: white;
   margin: 0;
   font-family: 'Bebas Neue';
 }
