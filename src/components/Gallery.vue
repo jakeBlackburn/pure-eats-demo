@@ -61,7 +61,7 @@
 .gallery-container {
     background-color: white;
     margin: 0;
-    border-top: 2px solid rgb(250,90,90);
+    padding-top: 30px;
 }
 
 h3 {
@@ -97,7 +97,7 @@ h3 {
 .gallery-image {
     height: 500px;
     margin: 0 5%;
-    border: 3px solid slateblue;
+    border: 1px solid slateblue;
     border-radius: 5px;
 }
 

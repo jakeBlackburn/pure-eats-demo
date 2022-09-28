@@ -1,8 +1,4 @@
 import { createApp } from 'vue'
-import Top from './Top.vue'
-import Bottom from './Bottom.vue'
+import App from './App.vue'
 
-
-
-createApp(Top).mount('#app-top')
-createApp(Bottom).mount('#app-bottom')
+createApp(App).mount('#app')
